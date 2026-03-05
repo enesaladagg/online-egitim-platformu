@@ -1,2 +1,2 @@
-# online-e-itim-platformu
+# online-egitim-platformu
 MERN Stack ve WebRTC mimarisiyle geliştirilen interaktif eğitim platformu
