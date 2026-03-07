@@ -7,8 +7,61 @@ Bu dosya, projemizin haftalık gelişimini ve ekip üyelerinin katkılarını ta
 ## Hafta 1: Analiz, Gereksinim ve Mimari Araştırmaları
 
 ### 1. Proje Hedefleri ve Paydaş Analizi
-**Sorumlu:** ALAA K M MAD
-*Alaa, araştırmalarını ve bulgularını bu başlığın altına yazabilirsin.*
+**Sorumlu:** ALAA K M MADI
+
+## Hafta 1 – Proje Analizi ve Paydaş Belirleme
+
+### 1. Projenin Amacı
+Bu projenin amacı, öğrenciler ve öğretmenlerin dijital bir eğitim ortamında etkileşim kurmasını sağlayan bir online eğitim platformu oluşturmaktır.  
+Platform, canlı dersler yapma, video üzerinden iletişim kurma, ödevleri yönetme ve öğrencilerin performansını kolay ve düzenli bir şekilde değerlendirme imkanı sunacaktır.
+
+---
+
+### 2. Projenin Kapsamı
+Proje kapsamında aşağıdaki temel özellikler yer alacaktır:
+
+- Kullanıcı kayıt ve giriş sistemi (öğrenciler ve öğretmenler için)  
+- Hesap oluşturma ve yönetimi  
+- Canlı ders sistemi (Live Classes)  
+- WebRTC kullanarak video konferans entegrasyonu  
+- Ödev yönetim sistemi  
+- Notlandırma ve değerlendirme sistemi  
+- Mobil ve masaüstü cihazlarla uyumlu (responsive) kullanıcı arayüzü  
+
+---
+
+### 3. Projenin Hedefleri
+- Online ortamda etkileşimli bir eğitim deneyimi sunmak  
+- Öğrenciler ve öğretmenler arasındaki iletişimi kolaylaştırmak  
+- Öğretmenlerin dersleri ve ödevleri kolayca yönetmesini sağlamak  
+- Tüm kullanıcılar için basit ve kullanıcı dostu bir deneyim sunmak  
+
+---
+
+### 4. Paydaşlar (Stakeholders)
+
+#### Öğrenciler
+Platformun temel kullanıcılarıdır. Canlı derslere katılırlar, ders içeriklerini görüntülerler ve ödevlerini sisteme yüklerler.
+
+#### Öğretmenler
+Dersleri oluşturan, canlı dersleri yöneten, ödev veren ve öğrencileri değerlendiren kullanıcılardır.
+
+#### Geliştirici Ekip
+Frontend geliştiriciler (React), Backend geliştiriciler (Node.js ve Express.js) ve veritabanı mühendislerinden (MongoDB) oluşan ekip. Platformun teknik geliştirilmesinden sorumludurlar.
+
+#### Proje Yöneticisi
+Projenin planlanması, görevlerin organize edilmesi ve ekip üyeleri arasındaki çalışma sürecinin takip edilmesinden sorumludur.
+
+#### Sistem Yöneticileri
+Sunucuların, veritabanlarının ve sistem altyapısının yönetilmesinden ve platformun stabil çalışmasından sorumlu kişilerdir.
+
+---
+
+### 5. İletişim
+Proje ile ilgili iletişim GitHub üzerinden ve ders sorumlusunun resmi web sitesi üzerinden gerçekleştirilecektir.
+
+- GitHub: Proje görevlerinin paylaşılması, kod yönetimi ve ilerlemenin takip edilmesi için kullanılacaktır.  
+- Web sitesi: https://www.ozalyildirim.com üzerinden duyurular ve proje ile ilgili akademik bilgilendirmeler takip edilecektir.
 
 ### 2. Fonksiyonel ve Fonksiyonel Olmayan Gereksinimler
 **Sorumlu:** Hüseyin Enes DEMİR
