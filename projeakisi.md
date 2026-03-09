@@ -89,6 +89,7 @@ Canlı yayın için **WebRTC**: Gecikmesiz, ücretsiz ve açık kaynak bir proje
 **Sorumlu:** ZÜBEYİR ASLAN
 *Zübeyir, modüller arası ilişkiler ve veri akışı tasarımlarını bu başlığın altına yazabilirsin.*
 
+
 ### 5. Geliştirme Ortamı Kurulumu
 **Sorumlu:** Enes ALADAĞ
 Yapılan Çalışmalar:
